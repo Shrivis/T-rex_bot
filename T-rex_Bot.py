@@ -33,7 +33,7 @@ def main():
     while True:
         if hurdle(box_x, box_y, box_x1, box_y1) != 1147 or hurdle(525, box_y, 555, box_y1) != 1147:
             # 1147 is the sum of pixel of square without any hurdles
-            # if the bot keep jumping use print(hrdle) and replace 1147 with the most repeted number
+            # if the bot keeps jumping use print(hrdle) and replace 1147 with the most repeted number
             key_press()
             time.sleep(0.05)
         # shifting square as speed increases
