@@ -1,6 +1,5 @@
 # T-rex_bot
-Automation of chrome t-rex game using pyautogui.
-The code is optimised for 1366X768 screen size and works on http://www.trex-game.skipser.com/ game.
-anyone can easily calibrate the above bot for any t-rex game by changing location variables accordingly.
-This is not an AI it does not uses any neural networks or evolution. It's a simple beginner friendly code written withing 100 lines.
-Kindly don't expect freaking amazing results.
+Automation of chrome t-rex game using PyAutoGui. 
+The code is optimized for 1366x768 resolution and works on http://www.trex-game.skipser.com/. 
+Anyone with decent coding skills can easily calibrate the above bot for similar games running on any screen size by scaling a few variables. 
+It's not some AI bot running using a convolution neural network. It's a simple beginner-friendly code written within 100 lines. Don't expect freaking amazing results.
